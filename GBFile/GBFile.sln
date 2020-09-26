@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBFile", "GBFile\GBFile.csproj", "{5ADF54B3-772F-4515-9E90-777140CF369A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FASTAFile", "FASTAFile\FASTAFile.csproj", "{A744C98E-E992-4943-B26E-08C4601D0C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADF54B3-772F-4515-9E90-777140CF369A}.Debug|x86.ActiveCfg = Debug|x86
+		{5ADF54B3-772F-4515-9E90-777140CF369A}.Debug|x86.Build.0 = Debug|x86
+		{5ADF54B3-772F-4515-9E90-777140CF369A}.Release|x86.ActiveCfg = Release|x86
+		{5ADF54B3-772F-4515-9E90-777140CF369A}.Release|x86.Build.0 = Release|x86
+		{A744C98E-E992-4943-B26E-08C4601D0C2A}.Debug|x86.ActiveCfg = Debug|x86
+		{A744C98E-E992-4943-B26E-08C4601D0C2A}.Debug|x86.Build.0 = Debug|x86
+		{A744C98E-E992-4943-B26E-08C4601D0C2A}.Release|x86.ActiveCfg = Release|x86
+		{A744C98E-E992-4943-B26E-08C4601D0C2A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

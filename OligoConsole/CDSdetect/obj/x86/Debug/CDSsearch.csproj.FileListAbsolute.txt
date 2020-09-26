@@ -1,0 +1,9 @@
+/home/alvydas/Projects/OligoConsole/CDSdetect/bin/Debug/CDSdetect.exe
+/home/alvydas/Projects/OligoConsole/CDSdetect/bin/Debug/CDSdetect.pdb
+/home/alvydas/Projects/OligoConsole/CDSdetect/bin/Debug/TrinucConsole.exe
+/home/alvydas/Projects/OligoConsole/CDSdetect/bin/Debug/TrinucConsole.pdb
+/home/alvydas/Projects/OligoConsole/CDSdetect/obj/x86/Debug/CDSsearch.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/OligoConsole/CDSdetect/obj/x86/Debug/CDSsearch.csproj.CopyComplete
+/home/alvydas/Projects/OligoConsole/CDSdetect/obj/x86/Debug/CDSdetect.exe
+/home/alvydas/Projects/OligoConsole/CDSdetect/obj/x86/Debug/CDSdetect.pdb
+/home/alvydas/Projects/OligoConsole/CDSdetect/obj/x86/Debug/CDSsearch.csprojAssemblyReference.cache

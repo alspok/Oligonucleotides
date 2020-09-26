@@ -1,0 +1,6 @@
+/home/alvydas/Projects/PentanucCalc/PentanucCalc/obj/x86/Debug/PentanucCalc.csprojAssemblyReference.cache
+/home/alvydas/Projects/PentanucCalc/PentanucCalc/obj/x86/Debug/PentanucCalc.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/PentanucCalc/PentanucCalc/bin/Debug/PentanucCalc.exe
+/home/alvydas/Projects/PentanucCalc/PentanucCalc/bin/Debug/PentanucCalc.pdb
+/home/alvydas/Projects/PentanucCalc/PentanucCalc/obj/x86/Debug/PentanucCalc.exe
+/home/alvydas/Projects/PentanucCalc/PentanucCalc/obj/x86/Debug/PentanucCalc.pdb

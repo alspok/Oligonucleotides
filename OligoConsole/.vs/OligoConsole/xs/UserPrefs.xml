@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B87A12AA-133B-4694-93F3-F4A977006B84}|Default">
+  <MonoDevelop.Ide.ItemProperties.CDS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TrinucConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrinucConsole/TrinucOutput.cs">
+    <Files>
+      <File FileName="TrinucConsole/TrinucOutput.cs" Line="5" Column="2" />
+      <File FileName="TrinucConsole/TrinucleotideCalc.cs" Line="20" Column="70" />
+      <File FileName="TrinucConsole/TriCalc.cs" Line="11" Column="17" />
+      <File FileName="TrinucConsole/Trinucleotide.cs" Line="23" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OligoConsole" expanded="True">
+            <Node name="CDS" expanded="True" />
+            <Node name="TrinucConsole" expanded="True">
+              <Node name="TrinucOutput.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CDSsearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DinucConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oligonucleotides FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.SeqShuffle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

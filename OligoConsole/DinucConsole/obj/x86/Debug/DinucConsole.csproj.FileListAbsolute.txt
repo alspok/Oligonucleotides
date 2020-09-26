@@ -1,0 +1,12 @@
+/home/alvydas/Projects/DinucConsole/DinucConsole/bin/Debug/DinucConsole.exe
+/home/alvydas/Projects/DinucConsole/DinucConsole/bin/Debug/DinucConsole.pdb
+/home/alvydas/Projects/DinucConsole/DinucConsole/obj/x86/Debug/DinucConsole.csprojAssemblyReference.cache
+/home/alvydas/Projects/DinucConsole/DinucConsole/obj/x86/Debug/DinucConsole.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/DinucConsole/DinucConsole/obj/x86/Debug/DinucConsole.exe
+/home/alvydas/Projects/DinucConsole/DinucConsole/obj/x86/Debug/DinucConsole.pdb
+/home/alvydas/Projects/OligoConsole/DinucConsole/obj/x86/Debug/DinucConsole.csprojAssemblyReference.cache
+/home/alvydas/Projects/OligoConsole/DinucConsole/obj/x86/Debug/DinucConsole.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/OligoConsole/DinucConsole/obj/x86/Debug/DinucConsole.exe
+/home/alvydas/Projects/OligoConsole/DinucConsole/obj/x86/Debug/DinucConsole.pdb
+/home/alvydas/Projects/OligoConsole/DinucConsole/bin/Debug/DinucConsole.exe
+/home/alvydas/Projects/OligoConsole/DinucConsole/bin/Debug/DinucConsole.pdb

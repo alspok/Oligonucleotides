@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4C249BA9-16BC-422D-8DB0-9F66C14AF1ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.SeqTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeqTest/Program.cs">
+    <Files>
+      <File FileName="SeqTest/Program.cs" Line="18" Column="1" />
+      <File FileName="../Library/Library/GBProperties.cs" Line="9" Column="23" />
+      <File FileName="../Library/Library/GBFeatures.cs" Line="7" Column="17" NotebookId="1" />
+      <File FileName="../Library/Library/GBSequence.cs" Line="18" Column="1" NotebookId="1" />
+      <File FileName="../Library/Library/GBSequenceComp.cs" Line="23" Column="1" NotebookId="1" />
+      <File FileName="../Library/Library/GBSeparation.cs" Line="33" Column="43" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeqTest" expanded="True">
+            <Node name="Library" expanded="True" />
+            <Node name="SeqTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/bin/Release/SeqTest.exe
+/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/obj/x86/Release/TrinucCalc.csproj.CoreCompileInputs.cache
+/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/obj/x86/Release/SeqTest.exe
+/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/obj/x86/Release/TrinucCalc.csprojAssemblyReference.cache

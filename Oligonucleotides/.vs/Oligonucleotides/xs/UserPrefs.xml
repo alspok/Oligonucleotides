@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7E2114EB-96F5-4C4F-A576-56AD7530E295}|Default">
+  <MonoDevelop.Ide.ItemProperties.Oligonucs FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oligonucleotides/Program.cs">
+    <Files>
+      <File FileName="Oligonucleotides/Program.cs" Line="27" Column="13" />
+      <File FileName="OligoProperties/Tetranucleotides.cs" Line="17" Column="36" />
+      <File FileName="OligoProperties/Trinucleotides.cs" Line="24" Column="29" />
+      <File FileName="OligoCalculation/TrinucCalc.cs" Line="66" Column="92" />
+      <File FileName="OligoCalculation/TetranucCalc.cs" Line="103" Column="56" NotebookId="1" />
+    </Files>
+<<<<<<< HEAD
+=======
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Oligonucleotides" expanded="True">
+            <Node name="OligoCalculation" expanded="True" />
+            <Node name="Oligonucleotides" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Oligonucs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+>>>>>>> 67ae14649a1a8ddd14313e9c98a7def1dc79b548
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oligonucleotides PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OligoCalculation FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

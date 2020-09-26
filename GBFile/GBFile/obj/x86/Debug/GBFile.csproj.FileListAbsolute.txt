@@ -1,0 +1,6 @@
+/home/alvydas/Projects/GBFile/GBFile/bin/Debug/GBFile.exe
+/home/alvydas/Projects/GBFile/GBFile/bin/Debug/GBFile.pdb
+/home/alvydas/Projects/GBFile/GBFile/obj/x86/Debug/GBFile.csprojAssemblyReference.cache
+/home/alvydas/Projects/GBFile/GBFile/obj/x86/Debug/GBFile.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/GBFile/GBFile/obj/x86/Debug/GBFile.exe
+/home/alvydas/Projects/GBFile/GBFile/obj/x86/Debug/GBFile.pdb

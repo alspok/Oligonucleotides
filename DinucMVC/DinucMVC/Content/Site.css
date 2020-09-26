@@ -1,0 +1,70 @@
+﻿﻿.row-style-28{
+        color: black;
+        font-size: 28px;
+        padding: 10px;
+}
+
+.row-style-16{
+        color: black;
+        font-size: 16px;
+}
+
+.row-gap-top-10{
+        margin-top: 10px;
+}
+
+.row-gap-top-20{
+        margin-top: 20px;
+        height: 60px;
+        background-color: lightgrey;
+}
+
+.row-gap-top-30{
+        margin-top: 30px;
+}
+
+.row-gap-top-40{
+        margin-top: 40px;
+}
+
+.row-gap-top-60{
+        margin-top: 60px;
+        padding: 60px;
+}
+
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: lightgrey;
+        color: white;
+        text-align: center;
+}
+
+.txt-area{
+        height: 300px;
+        width: 80%;
+        padding:10px 5px 5px 10px;
+        border: dark;
+        resize: none;
+        line-height: 2;
+        border-radius: 5px;
+        border: 0.5px solid black;
+        box-shadow: 4px 4px 4px #999;
+}
+
+.txt-box{
+        height: 300px;
+        width: 80%;
+        padding:10px 5px 5px 10px;
+        border: dark;
+}
+
+.btn-size{
+        padding: 8px 16px;
+        font-size: 16px;
+        border-radius: 10px;
+        width: 100px;
+        hight: 20px;
+ }

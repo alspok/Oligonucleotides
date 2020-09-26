@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{7CA839CB-4015-4DB0-ABC0-0B734479A475}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Library</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GBSequence.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GBProperties.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GBFeatures.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GBSequenceComp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FASTAProperties.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FASTASequence.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GBSeparation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RandomSeq.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GBSeqFeatures.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RandSeq.cs" />
+  </ItemGroup>
+</Project>

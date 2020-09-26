@@ -1,0 +1,29 @@
+LOCUS       NC_000913            4641652 bp    DNA     circular CON 11-OCT-2018
+DEFINITION  Escherichia coli str. K-12 substr. MG1655, complete genome.
+ACCESSION   NC_000913
+VERSION     NC_000913.3
+FEATURES             Location/Qualifiers
+     source          1..4641652
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     CDS             1..66
+     CDS             121..186
+     CDS             241..306
+     CDS             481..546
+ORIGIN
+          1 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+        61 ggctgacccc cccccccccc cccccccccc cccccccccc cccccccccc cccccccccc 
+      121 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+      181 ggctgagggg gggggggggg gggggggggg gggggggggg gggggggggg gggggggggg 
+      241 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+      301 ggctgatttt tttttttttt tttttttttt tttttttttt tttttttttt tttttttttt 
+      361 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+      421 ggctgaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa 
+      481 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+      541 ggctgacccc cccccccccc cccccccccc cccccccccc cccccccccc cccccccccc 
+      601 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+      661 ggctgagggg gggggggggg gggggggggg gggggggggg gggggggggg gggggggggg 
+//

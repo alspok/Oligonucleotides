@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+        <title>Enter Sequence</title>
+</head>
+<div class="container">
+        <div class="row justify-content-center row-gap-top-40">
+                <h2>Enter sequence</h2>
+        </div>
+        <div class="row justify-content-center row-gap-top-10">
+                @if(ViewBag.SeqCorrect == "true"){
+                        <p style="color: black">Enter A, C, G, T or a, c, g, t only, no gaps in between.</p>
+                }
+                else{
+                        <p style="color: red">Enter A, C, G, T or a, c, g, t only, no gaps in between. Try again.</p>
+                }
+                
+        </div>               
+        @using(Html.BeginForm("SeqInput", "Seq", FormMethod.Post))
+        {
+                <div class="row justify-content-center row-gap-top-10">
+                              @Html.TextArea("seq", new{placeholder="AGAGACAGATGGACGG...", @class="txt-area"})
+                </div>
+                <div class="row justify-content-center row-gap-top-10">
+                        <button class="btn-size">Calculate</button>
+                </div>
+        }
+</div>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{127B5941-53CA-45E5-AE6D-09AA0971D69F}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>OligoCalculation</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DinucCalc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TrinucCalc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TetranucCalc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PentanucCalc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TriCalcalculation.cs" />
+  </ItemGroup>
+</Project>

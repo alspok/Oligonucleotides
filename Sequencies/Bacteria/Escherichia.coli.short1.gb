@@ -1,0 +1,26 @@
+LOCUS       NC_000913            4641652 bp    DNA     circular CON 11-OCT-2018
+DEFINITION  Escherichia coli str. K-12 substr. MG1655, complete genome.
+ACCESSION   NC_000913
+VERSION     NC_000913.3
+FEATURES             Location/Qualifiers
+     source          1..4641652
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     CDS             1..61
+     CDS             61..126
+     CDS             complement(135..236)
+     CDS             241..300
+     CDS             join(281..321,361..411)
+ORIGIN      
+         1 atgaacaaaa acaaaaacaa aaacaaaaac aaaaacaaaa acaaaaacaa aaacaaaaac
+       61 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaac
+     121 aaaaacaaaa acaa   ttacaa aaacaaaaac aaaaacaaaa acaaaaacaa aaacaaaaac
+     181 aaaaacaaaa acaaaaacaa aaacaaaaac aaaaacaaaa acaaaaacaa gggcat   aaac
+     241 atgaacaaaa acattaacaa aaacaaaaac aaaaacaaaa atgaaaacaa aaacaaataa
+     301 aaaaacaaaa acattaacaa aaacaaaaac aaaaacaaaa acaaaaacaa aaacaaaaac
+     361 aaaaacaaaa acattaacaa aaacaaaaac aaaaacaaaa acaaaaacaa taacaaaaac
+     421 aaaaacaaaa acaaaaacaa aaacaaaaac
+//

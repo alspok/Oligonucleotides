@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PentanucCalc", "PentanucCalc\PentanucCalc.csproj", "{0F033356-1161-4DAA-A89A-2E8A71DC9F47}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Library", "..\Library\Library\Library.shproj", "{7CA839CB-4015-4DB0-ABC0-0B734479A475}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Oligonucs", "..\Oligonucleotides\OligoProperties\Oligonucs.shproj", "{566AAB47-11C2-401E-BBC5-4B8D80B5230E}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OligoCalculation", "..\Oligonucleotides\OligoCalculation\OligoCalculation.shproj", "{127B5941-53CA-45E5-AE6D-09AA0971D69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F033356-1161-4DAA-A89A-2E8A71DC9F47}.Debug|x86.ActiveCfg = Debug|x86
+		{0F033356-1161-4DAA-A89A-2E8A71DC9F47}.Debug|x86.Build.0 = Debug|x86
+		{0F033356-1161-4DAA-A89A-2E8A71DC9F47}.Release|x86.ActiveCfg = Release|x86
+		{0F033356-1161-4DAA-A89A-2E8A71DC9F47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.TabsToSpaces = True
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal

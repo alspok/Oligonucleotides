@@ -1,0 +1,52 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinucConsole", "DinucConsole\DinucConsole.csproj", "{EF78A810-8557-4B90-9CCA-C7950F812D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinucConsole", "TrinucConsole\TrinucConsole.csproj", "{7F86C0DD-041E-4874-A90D-0BA3904ECBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqShuffle", "SeqShuffle\SeqShuffle.csproj", "{712B8B92-083E-4622-ABE8-FB6743CB0F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS", "CDS\CDS.csproj", "{B87A12AA-133B-4694-93F3-F4A977006B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDSsearch", "CDSdetect\CDSsearch.csproj", "{FC9E4DE8-B8CC-4DF5-B25F-1E957E7B0C54}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Oligonucleotides", "Oligonucleotides\Oligonucleotides.shproj", "{A9B2C0D4-DC18-46F5-8509-5CE2B174E642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF78A810-8557-4B90-9CCA-C7950F812D7C}.Debug|x86.ActiveCfg = Debug|x86
+		{EF78A810-8557-4B90-9CCA-C7950F812D7C}.Debug|x86.Build.0 = Debug|x86
+		{EF78A810-8557-4B90-9CCA-C7950F812D7C}.Release|x86.ActiveCfg = Release|x86
+		{EF78A810-8557-4B90-9CCA-C7950F812D7C}.Release|x86.Build.0 = Release|x86
+		{7F86C0DD-041E-4874-A90D-0BA3904ECBAF}.Debug|x86.ActiveCfg = Debug|x86
+		{7F86C0DD-041E-4874-A90D-0BA3904ECBAF}.Debug|x86.Build.0 = Debug|x86
+		{7F86C0DD-041E-4874-A90D-0BA3904ECBAF}.Release|x86.ActiveCfg = Release|x86
+		{7F86C0DD-041E-4874-A90D-0BA3904ECBAF}.Release|x86.Build.0 = Release|x86
+		{712B8B92-083E-4622-ABE8-FB6743CB0F2A}.Debug|x86.ActiveCfg = Debug|x86
+		{712B8B92-083E-4622-ABE8-FB6743CB0F2A}.Debug|x86.Build.0 = Debug|x86
+		{712B8B92-083E-4622-ABE8-FB6743CB0F2A}.Release|x86.ActiveCfg = Release|x86
+		{712B8B92-083E-4622-ABE8-FB6743CB0F2A}.Release|x86.Build.0 = Release|x86
+		{B87A12AA-133B-4694-93F3-F4A977006B84}.Debug|x86.ActiveCfg = Debug|x86
+		{B87A12AA-133B-4694-93F3-F4A977006B84}.Debug|x86.Build.0 = Debug|x86
+		{B87A12AA-133B-4694-93F3-F4A977006B84}.Release|x86.ActiveCfg = Release|x86
+		{B87A12AA-133B-4694-93F3-F4A977006B84}.Release|x86.Build.0 = Release|x86
+		{FC9E4DE8-B8CC-4DF5-B25F-1E957E7B0C54}.Debug|x86.ActiveCfg = Debug|x86
+		{FC9E4DE8-B8CC-4DF5-B25F-1E957E7B0C54}.Debug|x86.Build.0 = Debug|x86
+		{FC9E4DE8-B8CC-4DF5-B25F-1E957E7B0C54}.Release|x86.ActiveCfg = Release|x86
+		{FC9E4DE8-B8CC-4DF5-B25F-1E957E7B0C54}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.TabWidth = 8
+		$1.TabsToSpaces = True
+		$1.IndentWidth = 8
+		$1.scope = text/plain
+	EndGlobalSection
+EndGlobal

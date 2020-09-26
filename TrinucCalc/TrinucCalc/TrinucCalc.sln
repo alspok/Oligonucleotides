@@ -1,0 +1,50 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinucCalc", "TrinucCalc.csproj", "{4C249BA9-16BC-422D-8DB0-9F66C14AF1ED}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Library", "..\..\Library\Library\Library.shproj", "{7CA839CB-4015-4DB0-ABC0-0B734479A475}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OligoCalculation", "..\..\Oligonucleotides\OligoCalculation\OligoCalculation.shproj", "{127B5941-53CA-45E5-AE6D-09AA0971D69F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Oligonucs", "..\..\Oligonucleotides\OligoProperties\Oligonucs.shproj", "{566AAB47-11C2-401E-BBC5-4B8D80B5230E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinucleoCalc", "TrinucleoCalc\TrinucleoCalc.csproj", "{7CBE6367-0D3F-47CC-B1EB-4869C92FF57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinucRandomCalc", "TrinucRandomCalc\TrinucRandomCalc.csproj", "{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinucSeqScan", "TrinucSeqScan\TrinucSeqScan.csproj", "{8E639532-FCA6-4794-863F-3804682D882D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C249BA9-16BC-422D-8DB0-9F66C14AF1ED}.Debug|x86.ActiveCfg = Debug|x86
+		{4C249BA9-16BC-422D-8DB0-9F66C14AF1ED}.Debug|x86.Build.0 = Debug|x86
+		{4C249BA9-16BC-422D-8DB0-9F66C14AF1ED}.Release|x86.ActiveCfg = Release|x86
+		{4C249BA9-16BC-422D-8DB0-9F66C14AF1ED}.Release|x86.Build.0 = Release|x86
+		{7CBE6367-0D3F-47CC-B1EB-4869C92FF57D}.Debug|x86.ActiveCfg = Debug|x86
+		{7CBE6367-0D3F-47CC-B1EB-4869C92FF57D}.Debug|x86.Build.0 = Debug|x86
+		{7CBE6367-0D3F-47CC-B1EB-4869C92FF57D}.Release|x86.ActiveCfg = Release|x86
+		{7CBE6367-0D3F-47CC-B1EB-4869C92FF57D}.Release|x86.Build.0 = Release|x86
+		{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}.Debug|x86.ActiveCfg = Debug|x86
+		{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}.Debug|x86.Build.0 = Debug|x86
+		{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}.Release|x86.ActiveCfg = Release|x86
+		{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}.Release|x86.Build.0 = Release|x86
+		{8E639532-FCA6-4794-863F-3804682D882D}.Debug|x86.ActiveCfg = Debug|x86
+		{8E639532-FCA6-4794-863F-3804682D882D}.Debug|x86.Build.0 = Debug|x86
+		{8E639532-FCA6-4794-863F-3804682D882D}.Release|x86.ActiveCfg = Release|x86
+		{8E639532-FCA6-4794-863F-3804682D882D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.TabsToSpaces = True
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal

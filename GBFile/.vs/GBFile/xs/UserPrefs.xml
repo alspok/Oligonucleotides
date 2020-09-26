@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5ADF54B3-772F-4515-9E90-777140CF369A}|Default">
+  <MonoDevelop.Ide.ItemProperties.GBFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GBFile/GBSequenceComp.cs">
+    <Files>
+      <File FileName="GBFile/Program.cs" Line="17" Column="32" />
+      <File FileName="GBFile/GBProperties.cs" Line="14" Column="21" />
+      <File FileName="GBFile/GBSequence.cs" Line="31" Column="1" />
+      <File FileName="GBFile/GBSequenceComp.cs" Line="44" Column="1" />
+      <File FileName="GBFile/GBFeatures.cs" Line="66" Column="10" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GBFile" expanded="True" selected="True">
+            <Node name="FASTAFile" expanded="True" />
+            <Node name="GBFile" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.FASTAFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

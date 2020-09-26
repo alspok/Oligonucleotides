@@ -1,0 +1,12 @@
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/CDS.exe
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/CDS.pdb
+/home/alvydas/Projects/OligoConsole/CDS/obj/x86/Debug/CDS.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/OligoConsole/CDS/obj/x86/Debug/CDS.exe
+/home/alvydas/Projects/OligoConsole/CDS/obj/x86/Debug/CDS.pdb
+/home/alvydas/Projects/OligoConsole/CDS/obj/x86/Debug/CDS.csprojAssemblyReference.cache
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/TrinucConsole.exe
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/TrinucConsole.pdb
+/home/alvydas/Projects/OligoConsole/CDS/obj/x86/Debug/CDS.csproj.CopyComplete
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/SeqShuffle.exe
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/MedallionRandom.dll
+/home/alvydas/Projects/OligoConsole/CDS/bin/Debug/SeqShuffle.pdb

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0F033356-1161-4DAA-A89A-2E8A71DC9F47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PentanucCalc/Program.cs">
+    <Files>
+      <File FileName="PentanucCalc/Program.cs" Line="32" Column="150" />
+      <File FileName="../Library/Library/GBSequence.cs" Line="23" Column="1" />
+      <File FileName="../Oligonucleotides/OligoCalculation/PentanucCalc.cs" Line="73" Column="1" />
+      <File FileName="../Oligonucleotides/OligoProperties/Pentanucleotides.cs" Line="21" Column="54" NotebookId="1" />
+      <File FileName="../Oligonucleotides/OligoCalculation/TetranucCalc.cs" Line="37" Column="1" NotebookId="1" />
+      <File FileName="../Oligonucleotides/OligoCalculation/TrinucCalc.cs" Line="56" Column="29" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PentanucCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

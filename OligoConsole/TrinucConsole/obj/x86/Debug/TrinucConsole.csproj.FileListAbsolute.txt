@@ -1,0 +1,10 @@
+/home/alvydas/Projects/OligoConsole/TrinucConsole/obj/x86/Debug/TrinucConsole.csprojAssemblyReference.cache
+/home/alvydas/Projects/OligoConsole/TrinucConsole/obj/x86/Debug/TrinucConsole.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/OligoConsole/TrinucConsole/bin/Debug/TrinucConsole.exe
+/home/alvydas/Projects/OligoConsole/TrinucConsole/bin/Debug/TrinucConsole.pdb
+/home/alvydas/Projects/OligoConsole/TrinucConsole/obj/x86/Debug/TrinucConsole.exe
+/home/alvydas/Projects/OligoConsole/TrinucConsole/obj/x86/Debug/TrinucConsole.pdb
+/home/alvydas/Projects/OligoConsole/TrinucConsole/bin/Debug/SeqShuffle.exe
+/home/alvydas/Projects/OligoConsole/TrinucConsole/bin/Debug/MedallionRandom.dll
+/home/alvydas/Projects/OligoConsole/TrinucConsole/bin/Debug/SeqShuffle.pdb
+/home/alvydas/Projects/OligoConsole/TrinucConsole/obj/x86/Debug/TrinucConsole.csproj.CopyComplete

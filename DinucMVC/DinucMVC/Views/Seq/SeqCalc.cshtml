@@ -1,0 +1,20 @@
+﻿﻿@{
+    Layout ="~/Views/Shared/_Layout.cshtml";
+    var sqLength = ViewBag.SeqLength;
+    var sqOut = ViewBag.SeqOutput;
+}
+
+<body>
+        <div class="container">
+                <div class="row justify-content-center row-gap-top-40">
+                        <h2>Sequence dinucleotide calculation</h2>                
+                </div>                
+                <div class="row justify-content-left row-gap-top-40">
+                        <div>Sequence length: @sqLength</div>
+                </div>
+                <div class="row justify-content-left row-gap-top-10">
+                        <div>Sequence: @sqOut</div>
+                </div>
+        </div>
+</body>
+

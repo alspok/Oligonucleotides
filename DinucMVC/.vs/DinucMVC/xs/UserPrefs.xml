@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{BB4F6449-EA52-4D3A-AD57-D75F0DA010DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.DinucCalculation FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DinucCalculationCons/Program.cs">
+    <Files>
+      <File FileName="DinucCalculationCons/Program.cs" Line="7" Column="1" />
+      <File FileName="DinucCalculationCons/Dinucleotide.cs" Line="10" Column="1" NotebookId="1" />
+      <File FileName="DinucCalculationCons/DinucleotideCalc.cs" Line="12" Column="36" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DinucMVC" expanded="True">
+            <Node name="DinucCalculation" expanded="True" />
+            <Node name="DinucCalculationCons" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DinucMVC" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Content" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Seq" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DinucMVC PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DinucCalculationCons PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/alvydas/Projects/DinucMVC/DinucCalculation/DinucCalc.cs" relfile="DinucCalculation/DinucCalc.cs" line="19" column="1" />
+      <Breakpoint file="/home/alvydas/Projects/DinucMVC/DinucCalculationCons/DinucleotideCalc.cs" relfile="DinucCalculationCons/DinucleotideCalc.cs" line="28" column="1" />
+      <Breakpoint file="/home/alvydas/Projects/DinucMVC/DinucCalculationCons/Program.cs" relfile="DinucCalculationCons/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

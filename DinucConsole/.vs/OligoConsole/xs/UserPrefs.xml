@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EF78A810-8557-4B90-9CCA-C7950F812D7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DinucConsole/DinucleotideCalc.cs">
+    <Files>
+      <File FileName="DinucConsole/Program.cs" Line="11" Column="6" />
+      <File FileName="DinucConsole/DinucleotideCalc.cs" Line="12" Column="1" />
+      <File FileName="DinucConsole/DinucOutput.cs" Line="72" Column="67" />
+      <File FileName="DinucConsole/Dinucleotide.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OligoConsole" expanded="True">
+            <Node name="DinucConsole" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="DinucleotideCalc.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DinucConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

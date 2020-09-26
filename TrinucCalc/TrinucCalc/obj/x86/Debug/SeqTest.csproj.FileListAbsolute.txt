@@ -1,0 +1,6 @@
+/home/alvydas/Projects/SeqTest/SeqTest/obj/x86/Debug/SeqTest.csprojAssemblyReference.cache
+/home/alvydas/Projects/SeqTest/SeqTest/obj/x86/Debug/SeqTest.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/SeqTest/SeqTest/bin/Debug/SeqTest.exe
+/home/alvydas/Projects/SeqTest/SeqTest/bin/Debug/SeqTest.pdb
+/home/alvydas/Projects/SeqTest/SeqTest/obj/x86/Debug/SeqTest.exe
+/home/alvydas/Projects/SeqTest/SeqTest/obj/x86/Debug/SeqTest.pdb

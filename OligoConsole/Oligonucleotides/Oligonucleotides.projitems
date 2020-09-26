@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{A9B2C0D4-DC18-46F5-8509-5CE2B174E642}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Oligonucleotides</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Trinucleotides.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Dinucleotides.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tetranucleotides.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pentanucleotides.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)OligoCalc.cs" />
+  </ItemGroup>
+</Project>

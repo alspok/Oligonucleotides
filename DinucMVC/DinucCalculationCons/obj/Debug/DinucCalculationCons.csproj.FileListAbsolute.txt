@@ -1,0 +1,6 @@
+/home/alvydas/Projects/DinucMVC/DinucCalculationCons/bin/Debug/DinucCalculationCons.exe
+/home/alvydas/Projects/DinucMVC/DinucCalculationCons/bin/Debug/DinucCalculationCons.pdb
+/home/alvydas/Projects/DinucMVC/DinucCalculationCons/obj/Debug/DinucCalculationCons.csprojAssemblyReference.cache
+/home/alvydas/Projects/DinucMVC/DinucCalculationCons/obj/Debug/DinucCalculationCons.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/DinucMVC/DinucCalculationCons/obj/Debug/DinucCalculationCons.exe
+/home/alvydas/Projects/DinucMVC/DinucCalculationCons/obj/Debug/DinucCalculationCons.pdb

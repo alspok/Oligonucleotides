@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.TrinucleoCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TrinucSeqScan FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrinucSeqScan/Program.cs">
+    <Files>
+      <File FileName="TrinucRandomCalc/Program.cs" Line="27" Column="38" />
+      <File FileName="../../Library/Library/GBSequence.cs" Line="1" Column="1" />
+      <File FileName="../../Library/Library/GBProperties.cs" Line="1" Column="1" />
+      <File FileName="TrinucSeqScan/Program.cs" Line="18" Column="13" />
+      <File FileName="../../Sequencies/Bacteria/Escherichia.coli.short3.gb" Line="16" Column="1" NotebookId="1" />
+      <File FileName="../../Oligonucleotides/OligoProperties/Trinucleotides.cs" Line="17" Column="25" NotebookId="1" />
+      <File FileName="../../Oligonucleotides/OligoCalculation/TrinucCalc.cs" Line="26" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrinucCalc" expanded="True" selected="True">
+            <Node name="Library" expanded="True" />
+            <Node name="OligoCalculation" expanded="True" />
+            <Node name="Oligonucs" expanded="True" />
+            <Node name="TrinucCalc" expanded="True" />
+            <Node name="TrinucleoCalc" expanded="True" />
+            <Node name="TrinucRandomCalc" expanded="True" />
+            <Node name="TrinucSeqScan" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrinucCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TrinucRandomCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,3 @@
+/home/alvydas/Projects/OligonucCalc/Oligonucleotides/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/home/alvydas/Projects/OligonucCalc/Oligonucleotides/obj/x86/Debug/Oligonucleotides.exe
+/home/alvydas/Projects/OligonucCalc/Oligonucleotides/bin/Debug/Oligonucleotides.exe

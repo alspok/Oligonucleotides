@@ -1,0 +1,8 @@
+/home/alvydas/Projects/OligoConsole/SeqShuffle/bin/Debug/SeqShuffle.exe
+/home/alvydas/Projects/OligoConsole/SeqShuffle/bin/Debug/SeqShuffle.pdb
+/home/alvydas/Projects/OligoConsole/SeqShuffle/bin/Debug/MedallionRandom.dll
+/home/alvydas/Projects/OligoConsole/SeqShuffle/obj/x86/Debug/SeqShuffle.csprojAssemblyReference.cache
+/home/alvydas/Projects/OligoConsole/SeqShuffle/obj/x86/Debug/SeqShuffle.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/OligoConsole/SeqShuffle/obj/x86/Debug/SeqShuffle.csproj.CopyComplete
+/home/alvydas/Projects/OligoConsole/SeqShuffle/obj/x86/Debug/SeqShuffle.exe
+/home/alvydas/Projects/OligoConsole/SeqShuffle/obj/x86/Debug/SeqShuffle.pdb

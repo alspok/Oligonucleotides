@@ -1,0 +1,5 @@
+/home/alvydas/Projects/GBFile/FASTAFile/bin/Debug/FASTAFile.exe
+/home/alvydas/Projects/GBFile/FASTAFile/bin/Debug/FASTAFile.pdb
+/home/alvydas/Projects/GBFile/FASTAFile/obj/x86/Debug/FASTAFile.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/GBFile/FASTAFile/obj/x86/Debug/FASTAFile.exe
+/home/alvydas/Projects/GBFile/FASTAFile/obj/x86/Debug/FASTAFile.pdb
