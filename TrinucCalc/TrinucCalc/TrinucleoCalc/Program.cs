@@ -39,18 +39,18 @@ namespace SeqTest
                         if (item.SeqType == "CDS" || item.SeqType == "JCDS" || item.SeqType == "NCDS")
                         {
                             Console.Write($"{subSeq.Substring(0, 10)}...{subSeq.Substring(subSeq.Length - 10)}\t");
-                            TrinucCalc trinucCalc = new TrinucCalc(item.SeqType, subSeq);
-                            var trinucDiff = trinucCalc.Calculation();
-                            Console.WriteLine(trinucDiff.DiffSum.ToString("0.0000"));
+                            TrinucCalc trinucCalc = new TrinucCalc();
+                            double trinucDiff = trinucCalc.Calculation(item.SeqType, subSeq);
+                            Console.WriteLine(trinucDiff.ToString("0.0000"));
                     }
                     else if(item.SeqType == "CCDS" || item.SeqType == "CJCDS")
                         {
                             GBSequenceComp gbSequenceComp = new GBSequenceComp(subSeq);
                             subSeq = gbSequenceComp.SeqComp();
                             Console.Write($"{subSeq.Substring(0, 10)}...{subSeq.Substring(subSeq.Length - 10)}\t");
-                            TrinucCalc trinucCalc = new TrinucCalc(item.SeqType, subSeq);
-                            var trinucDiff = trinucCalc.Calculation();
-                            Console.WriteLine(trinucDiff.DiffSum.ToString("0.0000"));
+                            TrinucCalc trinucCalc = new TrinucCalc();
+                            var trinucDiff = trinucCalc.Calculation(item.SeqType, subSeq);
+                            Console.WriteLine(trinucDiff.ToString("0.0000"));
                     }
                 }
                 else

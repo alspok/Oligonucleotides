@@ -67,14 +67,14 @@ namespace OligoCalculation
 
         foreach (var item in trinucCalculation.trinucleotides)
         {
-        trinucDiff.DiffSum1st2nd += item.TrinucFrqDiff1st2nd;
-        trinucDiff.DiffSum1st3rd += item.TrinucFrqDiff1st3rd;
-        trinucDiff.DiffSum2nd3rd += item.TrinucFrqDiff2nd3rd;
+            trinucDiff.DiffSum1st2nd += item.TrinucFrqDiff1st2nd;
+            trinucDiff.DiffSum1st3rd += item.TrinucFrqDiff1st3rd;
+            trinucDiff.DiffSum2nd3rd += item.TrinucFrqDiff2nd3rd;
         }
 
         trinucDiff.DiffSum = trinucDiff.DiffSum1st2nd + trinucDiff.DiffSum1st3rd + trinucDiff.DiffSum2nd3rd;
 
-            return trinucDiff.DiffSum;
+        return trinucDiff.DiffSum;
         }
     }
 }

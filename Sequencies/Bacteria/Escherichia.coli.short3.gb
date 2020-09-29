@@ -14,8 +14,8 @@ FEATURES             Location/Qualifiers
      CDS             241..306
      CDS             481..546
 ORIGIN
-          1 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
-        61 ggctgacccc cccccccccc cccccccccc cccccccccc cccccccccc cccccccccc 
+        1 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
+       61 ggctgacccc cccccccccc cccccccccc cccccccccc cccccccccc cccccccccc 
       121 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg
       181 ggctgagggg gggggggggg gggggggggg gggggggggg gggggggggg gggggggggg 
       241 atgaaacgca ttagcaccac cattaccacc accatcacca ttaccacagg taacggtgcg

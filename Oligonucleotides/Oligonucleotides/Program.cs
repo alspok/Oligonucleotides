@@ -53,8 +53,8 @@ namespace Oligonucleotides
             DinucCalc dinucCalc = new DinucCalc(seq);
             var diCalc = dinucCalc.Calculation ();
 
-            TrinucCalc trinucCalc = new TrinucCalc ( seq );
-            var triCalc = trinucCalc.Calculation ( );
+            TrinucCalc trinucCalc = new TrinucCalc ();
+            var triCalc = trinucCalc.Calculation ( "FromBoard", seq );
 
             TetranucCalc tetranucCalc = new TetranucCalc ( seq );
             var tetraCalc = tetranucCalc.Calculation ( );

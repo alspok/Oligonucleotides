@@ -14,16 +14,16 @@ namespace SeqTest
         public static void Main(string[] args)
         {
             //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.gb";
-            //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.test.gb";
+            string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.test.gb";
             //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.short.gb";
             //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.short1.gb";
             //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.short2.gb";
-            string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.short3.gb";
+            //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.short3.gb";
             //string fileName = "/home/alvydas/Oligonucleotides/Sequencies/Bacteria/Escherichia.coli.shuffle.test.gb";
             Console.WriteLine($"Calc seq cds trinucs for { Path.GetFileName(fileName) }");
 
             GBSequence gbSequence = new GBSequence(fileName);
-            var gbSeq = gbSequence.GbSeq();
+            GBSeq gbSeq = gbSequence.GbSeq();
             Console.WriteLine(gbSeq);
 
             GBSeqFeatures gBSeqFeatures = new GBSeqFeatures(fileName);
@@ -85,7 +85,7 @@ namespace SeqTest
                         Console.WriteLine($"{randomSubSeq}\t{trinucDiff.ToString("0.0000")}");
                         averageRCDS3 += trinucDiff;
                     }
-                    Console.WriteLine($"Average RCDS3 {(averageRCDS3/ randSeqNumber).ToString("0.0000")}\n");
+                    Console.WriteLine($"Average RCDS3 {(averageRCDS3 / randSeqNumber).ToString("0.0000")}\n");
                     mixSeq.Seq += randomSubSeq;
 
                     Console.WriteLine("\n");
