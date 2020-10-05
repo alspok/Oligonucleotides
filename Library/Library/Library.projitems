@@ -19,5 +19,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)RandomSeq.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GBSeqFeatures.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)RandSeq.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StdDevCalc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CalculateStdDev.cs" />
   </ItemGroup>
 </Project>
