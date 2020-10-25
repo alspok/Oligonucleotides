@@ -23,7 +23,7 @@
 		public double DiffSum { get; set; } = 0;
 	}
 
-	public class TrinucleotideMatch
+    public class TrinucleotideMatch
 	{
 	        public int TrinucPosition { get; set; }
 	        public string TrinucMatch { get; set; }

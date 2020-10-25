@@ -1,6 +1,0 @@
-/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucSeqScan/bin/Debug/TrinucSeqScan.exe
-/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucSeqScan/bin/Debug/TrinucSeqScan.pdb
-/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucSeqScan/obj/x86/Debug/TrinucSeqScan.csprojAssemblyReference.cache
-/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucSeqScan/obj/x86/Debug/TrinucSeqScan.csproj.CoreCompileInputs.cache
-/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucSeqScan/obj/x86/Debug/TrinucSeqScan.exe
-/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucSeqScan/obj/x86/Debug/TrinucSeqScan.pdb

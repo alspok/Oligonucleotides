@@ -1,24 +1,27 @@
-﻿<Properties StartupConfiguration="{AA5BFA7E-CD9D-414B-8A96-AF27D52351BA}|Default">
+﻿<Properties StartupConfiguration="{7CBE6367-0D3F-47CC-B1EB-4869C92FF57D}|Default">
   <MonoDevelop.Ide.ItemProperties.TrinucleoCalc PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TrinucSeqScan FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TrinucSeqScan/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/Library/CalculateStdDev.cs">
     <Files>
-      <File FileName="TrinucRandomCalc/Program.cs" Line="27" Column="38" />
-      <File FileName="../../Library/Library/GBSequence.cs" Line="1" Column="1" />
-      <File FileName="../../Library/Library/GBProperties.cs" Line="1" Column="1" />
-      <File FileName="TrinucSeqScan/Program.cs" Line="18" Column="13" />
+      <File FileName="TrinucleoCalc/Program.cs" Line="86" Column="1" />
+      <File FileName="../../Oligonucleotides/OligoProperties/Trinucleotides.cs" Line="1" Column="1" />
+      <File FileName="../../Oligonucleotides/OligoCalculation/TrinucCalc.cs" Line="1" Column="1" />
+      <File FileName="../../Library/Library/StdDevCalc.cs" Line="17" Column="56" />
+      <File FileName="../../Library/Library/CalculateStdDev.cs" Line="26" Column="1" />
+      <File FileName="Program.cs" Line="79" Column="32" />
       <File FileName="../../Sequencies/Bacteria/Escherichia.coli.short3.gb" Line="16" Column="1" NotebookId="1" />
-      <File FileName="../../Oligonucleotides/OligoProperties/Trinucleotides.cs" Line="17" Column="25" NotebookId="1" />
-      <File FileName="../../Oligonucleotides/OligoCalculation/TrinucCalc.cs" Line="26" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TrinucCalc" expanded="True" selected="True">
-            <Node name="Library" expanded="True" />
+          <Node name="TrinucCalc" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="CalculateStdDev.cs" selected="True" />
+            </Node>
             <Node name="OligoCalculation" expanded="True" />
             <Node name="Oligonucs" expanded="True" />
-            <Node name="TrinucCalc" expanded="True" />
+            <Node name="TrinucCalc" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
             <Node name="TrinucleoCalc" expanded="True" />
             <Node name="TrinucRandomCalc" expanded="True" />
             <Node name="TrinucSeqScan" expanded="True" />
@@ -32,7 +35,11 @@
   <MonoDevelop.Ide.ItemProperties.TrinucRandomCalc PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/home/alvydas/Oligonucleotides/Library/Library/StdDevCalc.cs" line="33" column="1" />
+      <Breakpoint file="/home/alvydas/Oligonucleotides/TrinucCalc/TrinucCalc/TrinucleoCalc/Program.cs" relfile="TrinucleoCalc/Program.cs" line="89" column="1" />
+      <Breakpoint file="/home/alvydas/Oligonucleotides/Library/Library/CalculateStdDev.cs" line="26" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

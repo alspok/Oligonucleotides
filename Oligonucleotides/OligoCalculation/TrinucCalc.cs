@@ -15,7 +15,7 @@ namespace OligoCalculation
         trinucleotideMatch = new List<TrinucleotideMatch>();
     }
 
-    public double Calculation (string seqType, string seq)
+    public TrinucDiff Calculation (string seqType, string seq)
 	{
         TrinucCalculation trinucCalculation = new TrinucCalculation();
         TrinucDiff trinucDiff = new TrinucDiff();
@@ -74,7 +74,7 @@ namespace OligoCalculation
 
         trinucDiff.DiffSum = trinucDiff.DiffSum1st2nd + trinucDiff.DiffSum1st3rd + trinucDiff.DiffSum2nd3rd;
 
-        return trinucDiff.DiffSum;
+        return trinucDiff;
         }
     }
 }
